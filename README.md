@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Unciv-units-extension
 
-An example mod for Unciv, that adds one new Civilization.
+Add more units to the game
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
